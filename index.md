@@ -2,6 +2,10 @@
 
 *** 
 
+## [CV & resume](./CV_resume.md)  
+
+***
+
 ## [Publications](./Publications.md)  
 
 ***
