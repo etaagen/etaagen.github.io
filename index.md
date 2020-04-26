@@ -2,15 +2,15 @@
 
 *** 
 
-## [Publications]()  
+## [Publications](./Publications.md)  
 
 ***
 
-## [Talks]()  
+## [Talks](./Talks.md)  
 
 ***  
 
-## [Resources]()  
+## [Resources](./Resources.md)  
 
 ***  
 
