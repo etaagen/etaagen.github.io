@@ -1,8 +1,13 @@
 theme: jekyll-theme-minimal
+
 title: Ella (Ellie) Taagen  
-description: Graduate student studying plant genetics in the Sorrells lab at Cornell University  
-  + [Email](et395@cornell.edu)  
+
+logo: https://github.com/etaagen/etaagen.github.io/blob/master/images/circle-cropped.png 
+
+description: Graduate student studying plant genetics in the Sorrells lab at Cornell University   
+
+* [Email](et395@cornell.edu)  
   
-  + [Twitter](https://twitter.com/etaagen)  
+* [Twitter](https://twitter.com/etaagen)  
   
-  + [GitHub](https://github.com/etaagen)
+* [GitHub](https://github.com/etaagen)
