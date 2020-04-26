@@ -14,6 +14,17 @@
 
 ***  
 
-## <span style="color: grey;"> Stay in touch: </span>  
+
+
+
+## <span style="color: grey;"> Get in touch: </span>  
+
+* **[Email](et395@cornell.edu)**  
+
+* **[Twitter](https://twitter.com/etaagen)**  
+
+* **[GitHub](https://github.com/etaagen)**  
+
+* **[LinkedIn](https://www.linkedin.com/in/ella-taagen/)**  
 
 
