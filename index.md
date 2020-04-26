@@ -23,7 +23,7 @@
 
 ## <span style="color: grey;"> Get in touch: </span>  
 
-* **[Email](et395@cornell.edu)**  
+* **[Email](mailto:et395@cornell.edu)**  
 
 * **[Twitter](https://twitter.com/etaagen)**  
 
