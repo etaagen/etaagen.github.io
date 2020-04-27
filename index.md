@@ -1,8 +1,5 @@
+***
 ## [ABOUT ME](./About_me.md)  
-
-*** 
-
-## [CV & RESUME](./CV_resume.md)  
 
 ***
 
