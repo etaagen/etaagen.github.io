@@ -1,20 +1,20 @@
-## [About me](./About_me.md)  
+## [ABOUT ME](./About_me.md)  
 
 *** 
 
-## [CV & resume](./CV_resume.md)  
+## [ACADEMIC CV](./CV_resume.md)  
 
 ***
 
-## [Publications](./Publications.md)  
+## [PUBLICATIONS](./Publications.md)  
 
 ***
 
-## [Talks](./Talks.md)  
+## [TALKS](./Talks.md)  
 
 ***  
 
-## [Resources](./Resources.md)  
+## [RESOURCES](./Resources.md)  
 
 ***  
 
