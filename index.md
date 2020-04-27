@@ -2,7 +2,7 @@
 
 *** 
 
-## [ACADEMIC CV](./CV_resume.md)  
+## [CV & RESUME](./CV_resume.md)  
 
 ***
 
