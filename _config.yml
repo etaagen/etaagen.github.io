@@ -7,4 +7,14 @@ title: Ella (Ellie) Taagen
 description: PhD Student | Plant Breeding & Genetics  Cornell University        
 
 github:
-  is_project_page: false
+  is_project_page: false 
+  
+  name: "my-website"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "Cars"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: "."
