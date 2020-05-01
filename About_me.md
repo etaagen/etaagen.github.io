@@ -7,6 +7,6 @@ I am drawn to career paths in industry, consulting, or think tanks where scienti
 
 
 
-## ACADEMIC CV & RESUME  
+## ACADEMIC CV & INDUSTRY RESUME  
 
 **Coming soon!**
