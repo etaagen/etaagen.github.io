@@ -1,6 +1,6 @@
 ## RESEARCH INTERESTS  
 
-* Genetics 
+* Genetics <p>U+1F9EC;</p>
 
 * Bioinformatics  
 
