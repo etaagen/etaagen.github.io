@@ -1,0 +1,18 @@
+---
+title: "Ella (Ellie) Taagen"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+240 Emerson Hall, Cornell University, Ithaca NY 14853  
+**Website:** https://etaagen.github.io/  
+**Email:** et395@cornell.edu  
+**[Twitter](https://twitter.com/etaagen)**   
+
+I am currently a Plant Breeding and Genetics Ph.D. candidate at Cornell University in Dr. Mark Sorrells’ Small Grains Breeding and Genetics lab. The importance of enhancing the productivity and adaptability of crops for global food security motivates me to apply my genetics, bioinformatics, and molecular biology skillset to uncovering the mechanisms driving desirable phenotypes.
+
+Communication and sare core pillars of my creative and critical thinking approach to research and team management. 
+
