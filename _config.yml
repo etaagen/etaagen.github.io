@@ -1,13 +1,10 @@
 theme: jekyll-theme-minimal
 
-logo: https://github.com/etaagen/etaagen.github.io/blob/master/images/circle-cropped.png?raw=true
+logo: https://github.com/etaagen/etaagen.github.io/blob/master/images/circle-wheat.png?raw=true
 
 title: Ella (Ellie) Taagen 
 
-description: PhD student studying plant genetics in the Sorrells lab at Cornell University   
+description: PhD Student | Plant Breeding & Genetics,  Cornell University        
 
-Email: et395@cornell.edu
-  
-Twitter: https://twitter.com/etaagen
-  
-GitHub: https://github.com/etaagen
+github:
+  is_project_page: false 
