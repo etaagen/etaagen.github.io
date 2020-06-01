@@ -4,7 +4,7 @@
 
 **Counting on Crossovers: fine-mapping a kernel weight and morphology gene in wheat**  
 
-* Plant and Animal Genome Conference, San Diego CA, January 2020, [poster abstract](https://plan.core-apps.com/pag_2020/abstract/c36ea450c35dad0021dfc0a90dfe64c9)  
+* Plant and Animal Genome Conference, San Diego CA, January 2020, [poster abstract](https://plan.core-apps.com/pag_2020/abstract/c36ea450c35dad0021dfc0a90dfe64c9) and [poster pdf](./PAG20poster_corrected_Taagen.pdf)   
 
 * ASA/CSSA/SSSA annual meeting, San Antonio TX, November 2019, [talk video link](https://scisoc.confex.com/scisoc/2019am/videogateway.cgi/id/37156?recordingid=37156)  
 
