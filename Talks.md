@@ -19,4 +19,4 @@
 
 * ASA/CSSA annual meeting, Baltimore MD, November 2018, [poster abstract](https://scisoc.confex.com/scisoc/2018am/meetingapp.cgi/Paper/113895)   
 
-* Plant and Animal Genome Conference, San Diego CA, January 2018, [Wheat CAP grant meeting talk](https://www.triticeaecap.org/seed-size-qtl-cloning-at-cornell-university/)
+* Plant and Animal Genome Conference, San Diego CA, January 2018, [Wheat CAP annual meeting](https://www.triticeaecap.org/seed-size-qtl-cloning-at-cornell-university/)
