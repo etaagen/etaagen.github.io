@@ -1,3 +1,3 @@
-## Talks  
+## TALKS & POSTERS
 
 **Coming soon!**  
