@@ -10,7 +10,7 @@
 
 ***
 
-## [TALKS](./Talks.md)  
+## [TALKS AND POSTERS](./Talks.md)  
 
 ***  
 
