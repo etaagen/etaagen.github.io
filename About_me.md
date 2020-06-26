@@ -8,7 +8,7 @@ My dissertation research focuses on fine-mapping and characterization of a grain
 I am drawn to career paths in industry, consulting, or think tanks where scientists are involved in diversified and applied programs of research.
 
 
-
+<iframe id="vp15vGyR" title="Video Player" width="544" height="306" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1593203529&f=5vGyRNhsfUFSkfTVx28UbQ&d=0&m=p&r=360p+480p+720p&volume=100&start_res=undefined&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
 
 ## CV & RESUME  
 
