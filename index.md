@@ -1,3 +1,9 @@
+<html>
+  <head>
+   <meta name="google-site-verification" content="yul2C6Bauqlyf82t19IepEIDbyPbK5MTF-t0qKOrzqs" />
+  </head>
+</html>
+
 ***
 ## [ABOUT ME / CV](./About_me.md)  
 
@@ -30,5 +36,4 @@
 * **[GitHub](https://github.com/etaagen)**  
 
 * **[LinkedIn](https://www.linkedin.com/in/ella-taagen/)**  
-
 
