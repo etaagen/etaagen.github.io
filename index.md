@@ -37,3 +37,4 @@
 
 * **[LinkedIn](https://www.linkedin.com/in/ella-taagen/)**  
 
+<span style="color: white;"> Ella Taagen Ellie Taagen </span>  
