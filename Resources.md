@@ -8,6 +8,6 @@
 
 **Fostering inclusive lab culture**  
 
-+ Beautiful diversity and inclusion genetics [lab posters](https://sammykatta.com/diversity) designed by [Sammy Katta](https://sammykatta.com/)  
++ Beautiful diversity and inclusion [posters](https://sammykatta.com/diversity) for genetics labs, designed by [Sammy Katta](https://sammykatta.com/)  
 
 + [Diversify Plant Sci](https://tinyurl.com/DiversifyPlantSci): a list of plant scientists from under-represented groups to reference as you seek speakers, reviewers, and participants for career or mentorship opportunities, created by The North American Arabidopsis Steering Committee (NAASC).
