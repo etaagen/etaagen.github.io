@@ -15,7 +15,7 @@
 *Companion infographic brief to controlled recombination opinion piece, highlighting the advantages and challenges of this technology.*
 
 3. Song, Y.H., Kubota, A., Kwon, M. S., Covington, M. F., Lee, N., **Taagen, E.**, Cintrón, D. L., Hwang, D. Y., Akiyama, R., Hodge, S. K., Huang, H., Nguyen, N. H., Nusinow, D. A., Millar, A. J., Shimizu, K. K. & Imaizumi, T. Molecular basis of flowering under natural long-day conditions in Arabidopsis (2018) *Nature Plants*. [DOI](https://dx.doi.org/10.1038%2Fs41477-018-0253-3)    
-*Highlights important approach for optimizing simplified laboratory conditions based on plant response in nature*
+*Formalizes important approach for optimizing simplified laboratory conditions based on plant response in nature*
 
 **Book chapters**  
 
