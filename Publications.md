@@ -8,7 +8,7 @@
 
 **Peer-reviewed manuscripts**  
 
-1. **Taagen, E.**, Bogdanove, A. J. & Sorrells, M. E. Counting on Crossovers: Controlled Recombination for Plant Breeding (2020) *Trends in Plant Science*. [DOI](https://doi.org/10.1016/j.tplants.2019.12.017)
+1. **Taagen, E.**, Bogdanove, A. J. & Sorrells, M. E. Counting on Crossovers: Controlled Recombination for Plant Breeding (2020) *Trends in Plant Science*. [DOI](https://doi.org/10.1016/j.tplants.2019.12.017)  Opinion piece on pushing the boundaries of homologous recombination (mitosis) or crossovers (meiosis) for increased control over the inheritance of preferred haplotypes.
 
 2. **Taagen, E.**, Bogdanove, A. J. & Sorrells, M. E. Achieving Controlled Recombination with Targeted Cleavage and Epigenetic Modifiers (2020) *Trends in Plant Science*. [DOI](https://doi.org/10.1016/j.tplants.2019.12.018)  
 
