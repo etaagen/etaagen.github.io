@@ -20,9 +20,9 @@
 
 * Fine mapping and cloning genes [presentation](https://shantel-martinez.github.io/Presentations/ET_SM%20fine%20mapping%20lecture.pdf) and [hands-on learning](https://docs.google.com/spreadsheets/d/1Q2Vk2jL3fFIrPeyyOT0KHQXYULPGhvjFHuCv1kOPy0w/edit#gid=1318519071)  
 
-+ Developed for Plant Breeding and Genetics 4060, Cornell University Oct, 2019   
+  + Developed for Plant Breeding and Genetics 4060, Cornell University Oct, 2019   
 
-+ Co-Instructed with [Shantel A. Martinez](https://shantel-martinez.github.io/talks.html)  
+  + Co-Instructed with [Shantel A. Martinez](https://shantel-martinez.github.io/talks.html)  
 
 
 **My GitHub tools**  
