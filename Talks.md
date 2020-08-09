@@ -4,6 +4,10 @@
 
 *Chronological and by subject matter*   
 
+**NAPB 2020 virtual poster and supplementary methods, results, etc.**  
+
+* [2 minute poster presentation pdf](), and [supplementary pdf](./Taagen_NAPB_poster_longform.pdf)   
+
 **Counting on Crossovers: fine-mapping a kernel weight and morphology gene in wheat**  
 
 * Plant and Animal Genome Conference, San Diego CA, January 2020, [poster abstract](https://plan.core-apps.com/pag_2020/abstract/c36ea450c35dad0021dfc0a90dfe64c9) and [poster pdf](./PAG20poster_corrected_Taagen.pdf)   
