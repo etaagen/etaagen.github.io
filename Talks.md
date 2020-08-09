@@ -6,7 +6,9 @@
 
 **NAPB 2020 virtual poster and supplementary methods, results, etc.**  
 
-* [2 minute poster presentation pdf](), and [supplementary pdf](./Taagen_NAPB_poster_longform.pdf)   
+* Two minute poster presentation [pdf]()  
+
+* [Supplementary pdf](./Taagen_NAPB_poster_longform.pdf)   
 
 **Counting on Crossovers: fine-mapping a kernel weight and morphology gene in wheat**  
 
