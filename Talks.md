@@ -6,7 +6,7 @@
 
 **NAPB 2020 virtual poster and supplementary methods, results, etc.**  
 
-* Two minute poster presentation [pdf]()  
+* Two minute poster presentation [pdf](./Taagen_NAPB_poster.pdf)  
 
 * [Supplementary pdf](./Taagen_NAPB_poster_longform.pdf)   
 
