@@ -4,7 +4,7 @@
 
 *Chronological and by subject matter*   
 
-**NAPB 2020 virtual poster and supplementary methods, results, etc.**  
+**NAPB 2020 virtual poster and supplementary material**  
 
 * Two minute poster presentation [pdf](./Taagen_NAPB_poster.pdf)  
 
