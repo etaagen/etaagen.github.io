@@ -10,6 +10,8 @@
 
 * [Supplementary pdf](./Taagen_NAPB_poster_longform.pdf)   
 
+* Borlaug Scholars [podcast with Seed World](https://seedworld.com/enter-the-world-of-wheat-with-4-napb-borlaug-scholars/)
+
 **Counting on Crossovers: fine-mapping a kernel weight and morphology gene in wheat**  
 
 * Plant and Animal Genome Conference, San Diego CA, January 2020, [poster abstract](https://plan.core-apps.com/pag_2020/abstract/c36ea450c35dad0021dfc0a90dfe64c9) and [poster pdf](./PAG20poster_corrected_Taagen.pdf)   
