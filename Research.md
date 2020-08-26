@@ -2,13 +2,13 @@
 
 ## RESEARCH INTERESTS  
 
-* Genetics 🧬
+* Quantitative Genetics 🧬
 
 * Bioinformatics 👩‍💻 
 
-* Molecular biology 🧪
+* Molecular Biology 🧪
 
-* Food security 🌾
+* Food Security 🌾
 
 Global food security is one of the most pressing issues of our time. The importance of enhancing the productivity and adaptability of crops motivates me to apply my genetics, bioinformatics, and molecular biology skillset to uncovering the mechanisms driving desirable phenotypes.   
 
