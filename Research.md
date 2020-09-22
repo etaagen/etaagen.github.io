@@ -4,7 +4,7 @@
 
 * Quantitative Genetics 🧬
 
-* Bioinformatics 👩‍💻 
+* Data Science 👩‍💻 
 
 * Molecular Biology 🧪
 
