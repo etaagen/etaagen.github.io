@@ -21,8 +21,6 @@
 * Cornell Plant Breeding and Genetics seminar, Ithaca NY, November 2019, [talk video link](https://www.youtube.com/watch?v=6L21PvXzRYY&feature=youtu.be)  
 
 
-**Dissecting yield: fine-mapping grain weight and shape genes in spring wheat**  
-
 * Grass Group seminar series, Cornell University, February 2019, talk
 
 * Cornell Plant Breeding and Genetics seminar, Ithaca NY, Nov 2018, [talk video link](https://www.youtube.com/watch?v=Nm9feWGV2kY&feature=youtu.be)                         
