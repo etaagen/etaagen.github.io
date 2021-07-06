@@ -9,7 +9,7 @@
 **Peer-reviewed manuscripts**  
 
 1. **Taagen, E.**, Tanaka, J., Gul, A. & Sorrells, M. E. Positional-based cloning ‘fail-safe’ approach is overpowered by wheat chromosome structural variation (2021) *The Plant Genome*. [DOI](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20106)   
-*A cautionary tale about structural variation and polyploidy, plus recommendations for more successful approaches to identifying causal variants. All of the data and scripts are open source and reporoducible - visit the repo [here](https://github.com/etaagen/Taagen_2021_TPG)*   
+*A cautionary tale about structural variation and polyploidy, plus recommendations for more successful approaches to identifying causal variants. All of the data and scripts are open source and reporoducible - visit the repo [here](https://github.com/etaagen/Taagen_2021_TPG).*   
 
 2. **Taagen, E.**, Bogdanove, A. J. & Sorrells, M. E. Counting on Crossovers: Controlled Recombination for Plant Breeding (2020) *Trends in Plant Science*. [DOI](https://doi.org/10.1016/j.tplants.2019.12.017)   
 *Opinion piece exploring the boundaries of homologous recombination (mitosis) or crossovers (meiosis) for increased control over the inheritance of preferred haplotypes.*
