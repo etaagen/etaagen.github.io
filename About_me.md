@@ -8,5 +8,5 @@ Hi there 👋
 I'm Ella Taagen, and you can call me Ellie. As a quantitative geneticist, I love to discover the relationships between recombination variation and desirable phenotypes and am driven by their potential to enhance breeding pipeline efficiency and genetic gain. Presently, I am a Plant Genetics PhD candidate at Cornell University in [Dr. Mark Sorrells’](https://plbrgen.cals.cornell.edu/people/mark-sorrells/) Small Grains Breeding and Genetics lab. I am also an intern at Bayer Crop Science, from June - December, 2021. I am drawn to career paths in industry at the intersection of genetics, data science, and molecular biology. My anticipated graduation is spring 2022. 
 
 
-### **View [resume](./Taagen_resume.pdf)   
+### **View [resume](./Taagen_resume.pdf)**  
 *LaTeX resume template credit [Claud D. Park](https://github.com/posquit0/Awesome-CV)*
