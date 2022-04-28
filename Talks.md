@@ -4,6 +4,12 @@
 
 *Chronological* 
 
+* Cornell Plant Breeding and Genetics seminar, Ithaca NY, April 2022, **talk** [video link](https://www.youtube.com/watch?v=6gff9-6U1Ic&t=2185s)  
+
+* PAG, virtual, January 2022, **Catherine Feuillet Early Career Award talk**  
+
+* IWGSC webinar, virtual, November 2021, **talk** [video link](https://www.youtube.com/watch?v=hVs3yjdF80Q&t=3s)  
+
 * Cornell Plant Breeding and Genetics seminar, Ithaca NY, April 2020, **talk**
 
 * NAPB, virtual, August 2020, two minute **poster** presentation [pdf](./Taagen_NAPB_poster.pdf) and [supplementary pdf](./Taagen_NAPB_poster_longform.pdf)
