@@ -8,7 +8,7 @@
 
 **Peer-reviewed manuscripts**  
 
-1. **Taagen, E.**, Jordan, K., Akhunov, E., Sorrells, M. E., Jannink, J. If it ain't broke, don't fix it: evaluating the effect of increased recombination on response to selection for wheat breeding (2022) *G3* [DOI](https://doi.org/10.1093/g3journal/jkac291)   
+1. **Taagen, E.**, Jordan, K., Akhunov, E., Sorrells, M. E., Jannink, J. If it ain't broke, don't fix it: evaluating the effect of increased recombination on response to selection for wheat breeding (2022) *G3.* [DOI](https://doi.org/10.1093/g3journal/jkac291)   
 *Simulating modifying recombination frequency & distribution and a GS wheat breeding program revealed that increased recombination shreds the LD and prediction accuracy, but can still be a valuable tool for discovery and harnessing the power of selection. Custom functions developed for advanced applications of **AlphaSimR** are available [here](https://github.com/etaagen/dissertation_chapter_4)*.  
 
 2. **Taagen, E.**, Tanaka, J., Gul, A. & Sorrells, M. E. Positional-based cloning ‘fail-safe’ approach is overpowered by wheat chromosome structural variation (2021) *The Plant Genome*. [DOI](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20106)   
