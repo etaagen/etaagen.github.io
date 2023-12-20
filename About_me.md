@@ -4,9 +4,6 @@
 
 ### **View [resume](./Taagen_resume.pdf)** 
 
-
-<iframe id="vp15vGyR" title="Video Player" width="432" height="243" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1593353759&f=5vGyRNhsfUFSkfTVx28UbQ&d=0&m=p&r=360p&volume=100&start_res=undefined&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
-
 Hi there 👋  
 I am Ella Taagen, and you can call me Ellie. As a data scientist, I love to model and test the relationships between regulatory genomic features and desirable phenotypes, and seek to further leverage their potential to enhance variant discovery with genome editing. Openness, adaptability, and interdisciplinary communication are core pillars of my creative and critical thinking approach to problem solving and project leadership.    
 
