@@ -2,11 +2,13 @@
 
 ## RESEARCH INTERESTS  
 
-* Genome Editing 🧬
+*last updated Jan 2022*
 
-* Data Science 👩‍💻 
+* Computational Biology 🧬
 
-* Food Security 🌾
+* Data Science & AI 👩‍💻 
+
+* Food Security 🌾  
 
 Global food security and sustainable food production are some of the most pressing issues of our time. The importance of enhancing the productivity and adaptability of crops motivates me to apply my functional genomics, data science, and project leadership skillset to uncovering the mechanisms driving desirable phenotypes via genome editing.   
 
