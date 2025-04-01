@@ -33,6 +33,6 @@
 
 * **[GitHub](https://github.com/etaagen)**  
 
-* **[LinkedIn](https://www.linkedin.com/in/ella-taagen/)**  
+* **[LinkedIn](https://www.linkedin.com/in/ellie-taagen/)**  
 
 <span style="color: white;"> Ella Taagen Ellie Taagen </span>  
