@@ -3,11 +3,11 @@
 ## ABOUT ME  
 
 Hi there 👋  
-I am Ella Taagen, and you can call me Ellie. I leverage eight years of experience in biotech data analytics and three years as a data scientist and product manager collaborating with multidisciplinary and machine learning teams in commercial life science R&D to identify and solve complex genome eidting problems. Openness, interdisciplinary collaboration, and adaptability are core pillars of my creative and critical thinking approach to leadership, teamwork, and customer engagement. I am drawn to career paths at the intersection of **biology, AI, and translating innovations into products**, with a commitment to sustainability for the customer, organization, and planet.
+I am Ella Taagen, and you can call me Ellie. This is a website I made for my Ph.D. research; for more current updates on what I'm up to check out my [GitHub](https://github.com/etaagen) and [LinkedIn](https://www.linkedin.com/in/ellie-taagen/). I love new challenges and opportunities to leverage data for innovation and strategic impact - let’s connect! 
 
 I completed my Ph.D. in Plant Genetics at Cornell University in [Dr. Mark Sorrells’](https://plbrgen.cals.cornell.edu/people/mark-sorrells/) Small Grains Breeding and Genetics lab, where I led in-silico and in-vivo projects related to the two primary novel sources of genetic variation, recombination and mutation during meiosis. 
 
-I am currently a data scientist at Bayer collaborating on innovative crop genome editing discovery projets and our data product management.
+I am currently a data scientist at Bayer collaborating on innovative crop genome editing discovery projets and our data product management. 
 
 
 
